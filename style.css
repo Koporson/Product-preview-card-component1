@@ -2,7 +2,7 @@
     font-size: 15px; 
     text-align: center; 
     position: absolute;
-    bottom: 120px;
+    bottom: 100px;
 }
 .attribution a { color: hsl(228, 45%, 44%); }
 *{
@@ -119,8 +119,8 @@ body p {
     font-size: 15px;
 
 }
-/* Mobile,tablet designe */
-@media only screen and (min-device-width: 320px) and (max-device-width: 768px)  {
+/* small display */
+@media screen and (max-width: 600px) {
     .content {
         width: 349px;
     }

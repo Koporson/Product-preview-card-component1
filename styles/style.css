@@ -51,7 +51,7 @@ body p {
 
 }
 .banner{
-    background-image: url('./images/image-product-desktop.jpg');
+    background-image: url(./images/image-product-desktop.jpg);
     width: 700px;
     height: 550px;
     background-size: cover;
@@ -67,7 +67,7 @@ body p {
     border-radius: 10px;
     color: hsl(0, 0%, 100%) ;
     cursor: pointer;
-    background-image: url('./images/icon-cart.svg');
+    background-image: url(./images/icon-cart.svg);
     background-repeat: no-repeat;
     background-position: 50px;
     font-weight: 700;
@@ -107,7 +107,7 @@ body p {
     border-radius: 10px;
     color: hsl(0, 0%, 100%) ;
     cursor: pointer;
-    background-image: url('./images/icon-cart.svg');
+    background-image: url(./images/icon-cart.svg);
     background-repeat: no-repeat;
     background-position: 50px;
     font-weight: 700;
@@ -129,7 +129,7 @@ body p {
     }
 
     .banner{
-        background-image: url('./images/image-product-mobile.jpg');
+        background-image: url(./images/image-product-mobile.jpg);
         width: 350px;
         height: 650px;
         background-size: cover;

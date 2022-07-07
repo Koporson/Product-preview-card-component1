@@ -129,7 +129,7 @@ body p {
     }
 
     .banner{
-        background-image: url('images/image-product-mobile.jpg');
+        background-image: url("/images/image-product-desktop.jpg");
         width: 350px;
         height: 650px;
         background-size: cover;

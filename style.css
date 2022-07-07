@@ -2,7 +2,7 @@
     font-size: 15px; 
     text-align: center; 
     position: absolute;
-    bottom: 150px;
+    bottom: 120px;
 }
 .attribution a { color: hsl(228, 45%, 44%); }
 *{
@@ -185,5 +185,11 @@ body p {
         cursor: pointer;
         background-color: hsl(158, 85%, 11%);
     
+    }
+    .attribution { 
+        font-size: 10px; 
+        text-align: center; 
+        position: absolute;
+        bottom: 1px;
     }
 }
